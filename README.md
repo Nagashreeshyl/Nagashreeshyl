@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Naga Shreeshyl — AI agents, automation, full-stack" width="100%">
+  <img src="banner.svg" alt="Naga Shreeshyl — AI agents, automation, full-stack" width="100%">
 </p>
 
 I'm Naga Shreeshyl. I build voice agents, automation workflows, and full-stack products. I'm a BCA (AI & ML) student at Dayananda Sagar College in Bengaluru, and an agentic AI intern at Yellow Metal, a financial services company, where I design and ship production voice agents.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/work.svg" alt="Work" height="44">
+<img src="work.svg" alt="Work" height="44">
 
 **Voice agents at Yellow Metal.** I build outbound calling agents that combine speech-to-text, text-to-speech, and LLM reasoning, connected to workflow tools so that a call turns into a follow-up without manual effort. I care most about making these systems hold up in Indian languages and on real phone lines.
 
@@ -14,9 +14,9 @@ I'm Naga Shreeshyl. I build voice agents, automation workflows, and full-stack p
 
 **Yogstra.** A yoga platform I'm building as a founder, currently pre-launch. It brings teachers, academies, competitions, and live classes into one product, and I handle product, design, and engineering.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/projects.svg" alt="Projects" height="44">
+<img src="projects.svg" alt="Projects" height="44">
 
 **[Yogstra](https://github.com/Nagashreeshyl/Yogstra)** is the full platform behind the yoga ecosystem: teacher discovery and enrollment, academy tools, competitions, and live video classes. Built with React 19, Vite, Tailwind CSS 4, Supabase, Razorpay (including Route for teacher payouts), and LiveKit, deployed on Vercel, with Playwright end-to-end tests.
 
@@ -32,15 +32,15 @@ I'm Naga Shreeshyl. I build voice agents, automation workflows, and full-stack p
 
 **Gym Tracker** is a personal web app for logging sets and reps on a 6-day split, with AI-generated progression suggestions.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/stack.svg" alt="Stack" height="44">
+<img src="stack.svg" alt="Stack" height="44">
 
 TypeScript, JavaScript, Python, React, Next.js, Vite, Tailwind CSS, Supabase, Firebase, Razorpay, LiveKit, Groq, Playwright, Vercel, Zapier, Dograh, and Sarvam for Indic speech.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/contact.svg" alt="Contact" height="44">
+<img src="contact.svg" alt="Contact" height="44">
 
 I'm open to remote AI and automation work, and happy to talk with anyone building in the voice or agentic space.
 
