@@ -8,23 +8,23 @@ I'm Naga Shreeshyl. I build voice agents, automation workflows, and full-stack p
 
 <img src="work.svg" alt="Work" height="44">
 
+**VachLabs.** My main project: a self-hosted voice AI platform, in the spirit of Vapi, for building, testing, and deploying conversational voice agents. It's a fork of the open-source [Dograh](https://github.com/dograh-hq/dograh) that I've rebranded and extended with a new dashboard UI, Google sign-in through Firebase, and superadmin impersonation for internal ops. It has a visual workflow builder for agents, WebRTC test calls from the browser, and telephony through Twilio, Vonage, Telnyx, Plivo, and Asterisk. Built with Next.js, FastAPI, Pipecat, PostgreSQL, Redis, and Docker.
+
 **Voice agents at Yellow Metal.** I build outbound calling agents that combine speech-to-text, text-to-speech, and LLM reasoning, connected to workflow tools so that a call turns into a follow-up without manual effort. I care most about making these systems hold up in Indian languages and on real phone lines.
 
 **AI automation for Indian SMEs.** With a sales co-founder, I'm building voice-agent and workflow-automation services for small and mid-sized businesses.
 
-**Yogstra.** A yoga platform I'm building as a founder, currently pre-launch. It brings teachers, academies, competitions, and live classes into one product, and I handle product, design, and engineering.
-
 <img src="divider.svg" alt="" width="100%">
 
 <img src="projects.svg" alt="Projects" height="44">
-
-**[Yogstra](https://github.com/Nagashreeshyl/Yogstra)** is the full platform behind the yoga ecosystem: teacher discovery and enrollment, academy tools, competitions, and live video classes. Built with React 19, Vite, Tailwind CSS 4, Supabase, Razorpay (including Route for teacher payouts), and LiveKit, deployed on Vercel, with Playwright end-to-end tests.
 
 **[DSCASC Election](https://github.com/Nagashreeshyl/DSCASC-Election)** is an institutional Class Representative election platform that supports any number of independent elections. Voting is enforced by Firestore security rules, so each voter can create exactly one immutable vote document, which rules out double voting across tabs and refreshes. Results combine student votes with weighted authority votes, and ties are flagged rather than broken at random. Built with Next.js, TypeScript, Firebase, and Cloudinary signed uploads.
 
 **[Code Port](https://github.com/Nagashreeshyl/code-port)** turns a guided AI interview into a live resume preview, a downloadable server-generated PDF, and an animated 3D portfolio website. Built with Next.js, React Three Fiber, Framer Motion, the Groq API, and Supabase.
 
 **[Pow Protocol](https://github.com/Nagashreeshyl/Pow-Protocol)** is a neumorphic proof-of-work verification interface, [live on Vercel](https://powprotocol.vercel.app/).
+
+**[Yogstra](https://github.com/Nagashreeshyl/Yogstra)** is a side project: a yoga platform with teacher discovery and enrollment, academy tools, competitions, and live video classes. Built with React 19, Vite, Tailwind CSS 4, Supabase, Razorpay (including Route for teacher payouts), and LiveKit, deployed on Vercel, with Playwright end-to-end tests.
 
 **[Quintyx](https://github.com/Nagashreeshyl/Quintyx)** is the website for a systematic quantitative investing firm, with an admin dashboard and the standard investor and risk-disclosure pages.
 
@@ -36,7 +36,7 @@ I'm Naga Shreeshyl. I build voice agents, automation workflows, and full-stack p
 
 <img src="stack.svg" alt="Stack" height="44">
 
-TypeScript, JavaScript, Python, React, Next.js, Vite, Tailwind CSS, Supabase, Firebase, Razorpay, LiveKit, Groq, Playwright, Vercel, Zapier, Dograh, and Sarvam for Indic speech.
+TypeScript, JavaScript, Python, React, Next.js, Vite, Tailwind CSS, FastAPI, Pipecat, PostgreSQL, Redis, Docker, Supabase, Firebase, Razorpay, LiveKit, Groq, Playwright, Vercel, Zapier, Dograh, and Sarvam for Indic speech.
 
 <img src="divider.svg" alt="" width="100%">
 
